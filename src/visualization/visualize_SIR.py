@@ -240,7 +240,7 @@ def SIR_figure(country_list):
                         'nticks':20,
                         'tickfont':dict(size=14,color="#7f7f7f"),
                       },
-                yaxis={'type':"log",'range':'[1.1, 7]'
+                yaxis={'type':"log"
                       }
                 
             )
